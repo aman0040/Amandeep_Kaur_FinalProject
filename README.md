@@ -5,4 +5,4 @@ for (let i = 0; i < numbers.length; i++){
     console.log(numbers[i]);
 }
 
-![Android screenshot](./images/image.png)
+![Android Screenshot](./image.png)
