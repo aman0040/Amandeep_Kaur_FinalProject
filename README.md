@@ -6,3 +6,5 @@ for (let i = 0; i < numbers.length; i++){
 }
 
 ![Android Screenshot](./image.png)
+![Ios Screenshot](./image-1.png)
+![Parallels Screenshot](./image-2.png)
